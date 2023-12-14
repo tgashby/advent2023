@@ -1,7 +1,7 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
+    "java.project.sourcePaths": ["Day1/src"],
+    "java.project.outputPath": "Day1/bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "Day1/lib/**/*.jar"
     ]
 }
